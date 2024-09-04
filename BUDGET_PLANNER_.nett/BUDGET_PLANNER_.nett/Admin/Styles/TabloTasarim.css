@@ -1,0 +1,31 @@
+﻿.tablo-container {
+    width: 80%; 
+    margin-top: 100px;
+    margin: auto;
+    padding:30px 0px;
+}
+.tablo {
+    border-collapse: collapse;
+    background-color: #fff;
+    width:100%; 
+}
+
+    .tablo tr, .tablo td, .tablo th {
+        border: 1px solid #bbb;
+        padding: 10px 20px;
+        width:100px;
+        text-align:center;
+    }
+
+    .tablo th {
+        background-color: #d1084b;
+        color: #fff;
+        font-weight: 600;
+        width:100px;
+    }
+    .tablo tr:first-child {
+        display:none;
+    }
+    .tablo a {
+        color:cornflowerblue;
+    }

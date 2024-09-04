@@ -1,0 +1,42 @@
+﻿* {
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+.gorusme-getir-duzenle {
+    width:80%;
+    margin:auto;
+    display:flex;
+    justify-content:space-around;
+    margin-top:50px;
+}
+.gorusme-getir-duzenle h2 {
+    text-align:center;
+}
+.flex-item {
+    display:flex;
+    width:400px;
+    height:250px;
+    align-items:center;
+    justify-content:center;
+
+}
+.flex-item div {
+    background-color:#999;
+    margin:0px 10px;
+    width:200px;
+    height:200px;
+}
+.flex-item div a {
+    display:block;
+    text-align:center;
+    height:80%;
+    align-content:center;
+}
+.flex-item div a img {
+    height:100px;
+    widows:100px;
+}
+.flex-item h2 {
+    text-align:center;
+}

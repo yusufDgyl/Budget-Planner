@@ -1,0 +1,97 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="BUDGET_PLANNER_.nett.MasterPage.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server" style="font-size:10px;">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Budget Planner</title>
+
+    <link href="../Styles/Style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="font-size:1.6rem">
+
+    <!--            <HEADER>         -->
+    <header>
+        <div id="navbar" class="navbar">
+            <h1 class="brand">
+                <a href="OrtakSayfalar.aspx?ID=2"><span><i class="fa-solid fa-book fa-2x" style="color:#ffc107; font-size:2.5rem;"></i></span>
+                Budget <span style="color: #ffc107;">Planner</span></a>
+            </h1>
+            <nav>
+                <ul>
+                    <li><a class="part" href="OrtakSayfalar.aspx?ID=2">Anasayfa</a></li>
+                    <li><a class="part" href="OrtakSayfalar.aspx?ID=1">Hakkımızda</a></li>
+                    <li><a class="part" href="Paketler.aspx">Paketler</a></li>
+                    <li><a class="part" href="OrtakSayfalar.aspx?ID=3">İletişim</a></li>
+                    <li class="button"><a href="../Pages/Login.aspx">Giriş Yap</a></li>
+                    <li class="button"><a href="../Pages/KayitOl.aspx">Kayıt Ol</a></li>
+                    <li class="menu-icon"><a onclick="displayMenu()"><i class="fa fa-bars"></i></a></li>
+                </ul>
+            </nav>
+
+        </div>
+
+
+
+    </header>
+
+    <main>
+        <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </form>
+    </main>
+
+    <!--            <FOOTER>         -->
+
+    <footer id="iletisim" ">
+        <div class="footer-container" style="color: #6c757d;">
+
+
+            <div class="join-us">
+                <h3>Bize Katıl</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, voluptatum.</p>
+                <div>
+                    <input type="email" placeholder="Mail" />
+                </div>
+                <div>
+                    <button>Katıl</button>
+                </div>
+            </div>
+            <div class="links">
+                <h3>Linkler</h3>
+                <ul>
+                    <li><a>Hakkımızda</a></li>
+                    <li><a>Blog</a></li>
+                    <li><a>Paketler</a></li>
+                    <li><a>İletişim</a></li>
+                </ul>
+            </div>
+
+        </div>
+        <div class="footer-info">
+            <p>Telif Hakkı © 2024, Tüm Hakları Saklıdır</p>
+        </div>
+
+    </footer>
+
+    <script>
+        function displayMenu() {
+            var link = document.getElementById("navbar");
+            link.classList.toggle("responsive");
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,258 @@
+﻿* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 10px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Lato',sans-serif;
+    font-size: 1.6rem;
+    background-color: #fff;
+    color: #333;
+    line-height: 1.6;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin: 1rem 0rem;
+}
+
+img {
+    width: 100%;
+}
+
+/*header*/
+
+header {
+    opacity: 0.8;
+    background-color: #343a40;
+}
+
+.navbar {
+    color: white;
+    padding: 1rem;
+    opacity: 0.8;
+    background-color: #343a40;
+}
+.navbar a {
+    color:white;
+    padding:5px 15px;
+    font-size:2rem;
+}
+    .navbar a:hover {
+        color: #ffc107;
+    }
+.navbar li {
+    display:inline-block;
+    margin:0px 5px;
+}
+.navbar nav {
+    position:absolute;
+    top:20px;
+    right:20px;
+
+}
+    .navbar li i {
+        display: none;
+    }
+
+/*          FOOOTERR      */
+
+#iletisim {
+    background-color: #6c757d;
+    color:white;
+    position:relative;
+    height:40rem;
+}
+.join-us {
+    color:white;
+    width:45%;
+    padding:1rem;
+    height:20rem;
+}
+    .join-us h3 {
+        text-align:center;
+        font-size: 3rem;
+        color: #ffc107;
+    }
+    .join-us p {
+        font-size:2rem;
+    }
+    .join-us input {
+        width:100%;
+        padding:8px 24px;
+        border: none;
+        font-size:1.5rem
+    }
+    .join-us button {
+        width: 100%;
+        padding: 8px 24px;
+        background-color: #ffc107;
+        color:white;
+        text-align:center;
+        font-size:2rem;
+        border:none;
+        margin-top:2rem;
+    }
+.links {
+    width:45%;
+    color:white;
+    padding:1rem;
+    position:absolute;
+    top:0;
+    right:0;
+    height:20rem;
+    margin-bottom:2rem;
+}
+    .links h3 {
+        color: #ffc107;
+        font-size:3rem;
+        text-align:center;
+    }
+    .links a {
+        font-size:2rem;
+    }
+        .links a:hover {
+            color: #ffc107;
+        }
+    .links li {
+        border-bottom: 2px solid #ffc107;
+        margin-bottom:5px;
+    }
+
+.footer-info {
+    background-color:#444;
+    width:90%;
+    text-align:center;
+    font-size:2.5rem;
+    margin:auto;
+    margin-top:8rem;
+    color:white;
+}
+
+
+
+
+/*RUNAT SERVER*/
+
+.home-bg::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+button:hover {
+    opacity: 0.8;
+}
+
+.card:hover {
+    box-shadow: rgba(0, 0, 0, 1) 0px 5px 15px;
+}
+.abous-team-photos:hover {
+    opacity:0.8;
+    cursor:pointer;
+}
+
+/*RESPONSIVE*/
+
+@media (max-width:1200px)
+{
+    html {
+        font-size:9px;
+    }
+}
+@media (max-width:978px)
+{
+    html {
+        font-size:8px;
+    }
+    .navbar nav {
+        position:static;
+        text-align:center;
+    }
+    .navbar h1 {
+        text-align:center;
+        margin-bottom:10px;
+    }
+}
+@media (max-width:770px)
+{
+    html {
+        font-size:7px;
+    }
+    .navbar .part {
+        display:none;
+    }
+    .navbar .button a{
+        display:none;
+    }
+    .navbar li i {
+        display:block;
+        font-size:25px;
+        margin-right:100px;
+        margin-bottom:20px;
+    }
+    .navbar nav {
+        height:60px;
+    }
+    .responsive .part {
+        display:block;
+    }
+    .responsive .button a {
+        display:block;
+    }
+    .responsive li i {
+        position: absolute;
+        top:20px;
+        right:20px;
+        margin:0;
+    }
+    .responsive .brand {
+        text-align:left;
+    }
+    .responsive li {
+        display: block;
+        text-align: left;
+        border-bottom: 2px solid #ffc107;
+    }
+    .responsive li a {
+        font-size:16px;
+    }
+    .responsive .button a {
+        color: #DDF2FD;
+    }
+    .responsive nav {
+        height:230px;
+    }
+    .links {
+        display:block;
+        position:static;
+        width:80%;
+        margin:auto;
+    }
+    .join-us {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    #iletisim {
+        height:100%;
+        padding:10px;
+    }
+}
+

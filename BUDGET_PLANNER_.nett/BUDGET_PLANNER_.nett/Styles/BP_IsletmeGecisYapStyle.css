@@ -1,0 +1,184 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-size: 1.6rem;
+}
+header {
+    visibility:hidden;
+}
+.isletme-sec-baslik {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 5rem;
+    margin: 30px;
+}
+
+.box-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+    .box-container tbody {
+        display: flex;
+        align-items: center;
+    }
+
+    .box-container tr {
+        padding: 5px;
+    }
+
+    .box-container i {
+        font-size: 3rem;
+        color: #ffc107;
+    }
+
+    .box-container .icon {
+        text-align: center;
+    }
+
+.box {
+    position: relative;
+    background-color: #333;
+    color: white;
+    width: 40rem;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, .2) 0px 5px 15px;
+    transition: all ease-in-out 1s;
+}
+
+    .box:hover {
+        box-shadow: rgba(0, 0, 0, 1) 0px 5px 15px;
+    }
+
+    .box > div {
+        padding: 10px;
+    }
+
+    .box span {
+        color: #ffc107;
+    }
+
+    .box label {
+        font-size: 18px;
+    }
+
+    .box .btn-sec {
+        padding: 8px 30px;
+        background-color: white;
+        color: #333;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+        .box .btn-sec:hover {
+            opacity: 0.8;
+        }
+
+    .box .button-container {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+.isletme-ekle {
+    position:absolute;
+    bottom:10px;
+    width:100%;
+    text-align:center;
+}
+    .isletme-ekle a {
+        display: inline-block;
+        background-color: #333;
+        color: #fff;
+        border-radius: 50%;
+        padding: 20px 30px;
+        cursor: pointer;
+        box-shadow: rgba(0, 0, 0, .8) 0px 5px 15px;
+    }
+    .isletme-ekle a:hover {
+        opacity:0.8;
+    }
+
+.emin-misin-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+    width: 100%;
+    height: 100vh;
+}
+
+    .emin-misin-container:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        backdrop-filter: blur(6px);
+        z-index: -1;
+    }
+
+.emin-misin {
+    padding: 20px;
+    background-color: #fff;
+}
+
+    .emin-misin h2 {
+        text-align: center;
+    }
+
+.emin-misin-btn-group {
+    text-align: center;
+}
+
+    .emin-misin-btn-group .btn-emin-misin {
+        padding: 8px 24px;
+        background-color: black;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+
+        .emin-misin-btn-group .btn-emin-misin:hover {
+            opacity: 0.8;
+        }
+
+
+
+/******RESPONSIVE******/
+
+
+@media (max-width:1250px)
+{
+    html {
+        font-size:8px;
+    }
+}
+@media (max-width:1000px) {
+    .box-container tbody {
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+    }
+    .box-container tr {
+        padding:2rem 0px;
+    }
+
+}

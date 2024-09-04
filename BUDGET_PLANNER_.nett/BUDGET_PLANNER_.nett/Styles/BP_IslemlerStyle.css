@@ -1,0 +1,244 @@
+﻿body {
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.islemler {
+    width:80%;
+    margin:auto;
+    height:90vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.islemler-container {
+    background-color: #23374D;
+    color: white;
+    width:70rem;
+    border-radius:20px;
+}
+.islemler-form {
+    padding:1rem 2rem;
+}
+.islemler-form h1 {
+    text-align:center;
+}
+.islemler-form .input-group {
+    padding:.9rem;
+}
+.islemler-form .input-group .txt-islem {
+    padding:.5rem;
+    width:99%;
+    border-radius:10px;
+    border:none;
+}
+    .islemler-form .input-group .btn-islem-tur {
+        padding: 8px 24px;
+        width: 30%;
+        font-weight: bolder;
+        border-radius: 10px;
+        font-size: 12px;
+        cursor: pointer;
+        background-color: #fff;
+        color: #23374D;
+        border: none;
+        display:inline-block;
+    }
+    .islemler-form .input-group .btn-red { 
+        box-shadow: rgba(255, 0, 0, 1) 0px 5px 15px;
+    }
+    .islemler-form .input-group .btn-green {
+        box-shadow: rgba(50,205,50, 1) 0px 5px 15px;
+    }
+    .islemler-form .input-group .btn-blue {
+        box-shadow: rgba(135,206,250, 1) 0px 5px 15px;
+    }
+.islemler-form .input-group .btn-islem-tur:hover {
+    opacity:0.8;
+}
+.islemler-form .input-group .btn-islem-tur-group {
+    padding:10px;
+    text-align:center;
+}
+.islemler-form .input-group .btn-islem-tur-group h3 {
+    padding: 5px 0px;
+}
+.islemler-form .btn-group {
+    padding:1rem;
+    text-align:center;
+}
+.islemler-form .btn-group .btn-islem {
+    padding:8px 24px;
+    width:20%;
+    border-radius:10px;
+    font-weight:bolder;
+}
+
+
+.islemler-goruntule {
+    padding:10px;
+}
+.islemler-goruntule h1 {
+    text-align:center;
+    margin-bottom:2rem;
+}
+.islem-row {
+    background-color: #23374D;
+    color:#fff;
+    padding:20px 50px;
+    border-radius:10px;
+    display:flex;
+    justify-content:space-between;
+    width:80%;
+    margin:auto;
+}
+.islem-info label {
+    display:block;
+    font-size:20px;
+}
+.islem-icons {
+    display:flex;
+    align-items:center;
+}
+.islem-icons a {
+    display:block;
+    font-size:20px;
+    cursor:pointer;
+    color:white;
+}
+.islem-icons a:hover {
+    opacity:0.8;
+}
+.islem-link-btn {
+    display: block;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+    position:absolute;
+    top:20px;
+    right:20px;
+}
+.islem-link-btn:hover {
+    opacity:0.8;
+}
+.green-box-shadow {
+    box-shadow: rgba(50,205,50, 1) 0px 5px 35px;
+    border-radius: 20px;
+}
+.red-box-shadow {
+    box-shadow: rgba(255, 0, 0, 1) 0px 5px 35px;
+    border-radius: 20px;
+}
+.blue-box-shadow {
+    box-shadow: rgba(135,206,250, 1) 0px 5px 35px;
+    border-radius: 20px;
+}
+.pnl-islemleri-goruntule {
+    display:none;
+}
+.dList {
+    width:100%;
+    display:inline-block;
+    margin:auto;
+}
+.dList td {
+    margin-bottom:10px;
+}
+    .dList tbody, tr, td {
+        display: block;
+        width: 100%;
+    }
+.visible {
+    display: block;
+}
+
+
+/*DÜZENLE FORM*/
+
+.islem-duzenle {
+    background-color: red;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #343a40;
+    color: #fff;
+    border-radius: 10px;
+    border-top: 10px solid #ffc107;
+    display: none;
+    position:relative;
+}
+.islem-duzenle .input-group-duzenle {
+    padding:10px 0px;
+}
+.islem-duzenle .txt-islem {
+    width:100%;
+    padding:2px 5px;
+    border:none;
+    border-radius:5px;
+}
+.islem-duzenle .button-group {
+    text-align:center;
+}
+    .islem-duzenle .button-group .btn-duzenle {
+        padding: 8px 24px;
+        background-color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        color: #23374D;
+        font-weight:bolder;
+    }
+    .islem-duzenle .button-group .btn-duzenle:hover {
+        opacity:0.8;
+    }
+
+.txt-none {
+    display:none;
+}
+
+
+.emin-misin-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+    width:100%;
+    height:100vh;
+}
+    .emin-misin-container:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        backdrop-filter: blur(6px);
+        z-index:-1;
+    }
+.emin-misin {
+    padding:20px;
+    background-color:#fff;
+}
+.emin-misin h2 {
+    text-align:center;
+}
+.emin-misin-btn-group {
+    text-align:center;
+}
+    .emin-misin-btn-group .btn-emin-misin {
+        padding:8px 24px;
+        background-color:black;
+        color:white;
+        border:none;
+        border-radius:5px;
+        cursor:pointer;
+        font-size:15px;
+        font-weight:bolder;
+    }
+    .emin-misin-btn-group .btn-emin-misin:hover {
+        opacity:0.8;
+    }
+
+.box-shadow-none {
+    box-shadow:none;
+}

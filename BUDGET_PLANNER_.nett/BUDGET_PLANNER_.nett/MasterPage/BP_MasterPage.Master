@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BP_MasterPage.master.cs" Inherits="BUDGET_PLANNER_.nett.MasterPage.BP_MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title></title>
+
+
+    <link href="../Styles/BP_MasterPageStyle.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" 
+    integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+
+<body style="font-size: 1.6rem;">
+
+    <header>
+        <div id="navbar" class="navbar">
+            <h1 class="brand">
+                <a href="BP_Anasayfa.aspx">
+                    <span><i class="fa-solid fa-book fa-2x" style="color: #ffc107; font-size: 2.5rem;"></i></span>
+                    Budget <span style="color: #ffc107;">Planner</span>
+                </a>
+            </h1>
+            <nav>
+                <ul class="menu-bar">
+                    <li>
+                        <a class="part" id="anasayfa" href="../Pages/BP_Anasayfa.aspx">Anasayfa</a>
+                    </li>
+                    <li>
+                        <a class="part" id="isletme-gecis" href="../Pages/BP_IsletmeGecisYap.aspx">İşletme Geçiş Yap</a>
+                    </li>
+                    <li>
+                        <a class="part" id="islemler" href="../Pages/BP_HesapSec.aspx">İşlemler</a>
+                    </li>
+                    <li>
+                        <a class="part" id="raporlar" href="../Pages/BP_Raporlar.aspx">Raporlar</a>
+                    </li>
+                    <li>
+                        <a class="part" id="notlar" href="../Pages/BP_Notlar.aspx">Notlar</a>
+                    </li>
+                    <li class="ayarlar">
+                        <a class="part" id="ayarlar">Ayarlar</a>
+                        <ul class="ayarlar-list">
+                            <li><i class="fa-solid fa-arrow-right"></i><a href="../Pages/BP_Bilgilerim.aspx">Bilgilerim</a></li>
+                            <li><i class="fa-solid fa-arrow-right"></i><a href="../Pages/BP_OdemePlani.aspx">Ödeme Planı</a></li>
+                            <li><i class="fa-solid fa-arrow-right"></i><a href="../Pages/BP_DefterAyarlari.aspx">Defter Ayarları</a></li>
+                            <li><i class="fa-solid fa-arrow-right"></i><a href="../Pages/BP_IsletmeAyarlari.aspx">İşletme Ayarları</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="part" href="../Pages/Login.aspx">Çıkış Yap</a>
+                    </li>
+                    <li class="menu-icon">
+                        <a onclick="displayMenu()" style="color: yellow;">Menu</a>
+                    </li>
+
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+
+    <script>
+        function displayMenu() {
+            var link = document.getElementById("navbar");
+            link.classList.toggle("responsive");
+
+            var link2 = document.getElementById("dDownMenu");
+            link2.classList.toggle("drop");
+        }
+    </script>
+
+
+</body>
+</html>

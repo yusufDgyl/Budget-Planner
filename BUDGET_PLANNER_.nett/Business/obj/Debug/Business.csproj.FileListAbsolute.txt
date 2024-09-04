@@ -1,0 +1,12 @@
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\Business\bin\Debug\Business.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\Business\bin\Debug\Business.pdb
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\Business\obj\Debug\Business.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\Business\obj\Debug\Business.pdb
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\Business\bin\Debug\Business.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\Business\bin\Debug\Business.pdb
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\Business\obj\Debug\Business.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\Business\obj\Debug\Business.pdb

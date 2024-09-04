@@ -1,0 +1,292 @@
+﻿body {
+    background-color: #dedddc;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.form-container {
+    margin-top: 100px;
+}
+
+.bilgilerim-form {
+    background-color: #fff;
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+.form-baslik {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #dedddc;
+}
+
+.btn-duzenle {
+    padding: 8px 24px;
+    color: #dedddc;
+    border: 2px solid #dedddc;
+    border-radius: 5px;
+    background-color: #fff;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: all linear .5s;
+}
+
+    .btn-duzenle:hover {
+        border-color: black;
+        color: black;
+    }
+
+.form-icerik {
+    padding: 2rem 0rem;
+}
+
+    .form-icerik li {
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem;
+    }
+
+        .form-icerik li label {
+            color: #5C5470;
+            font-weight: bolder;
+        }
+
+.dList {
+    width: 100%;
+}
+
+
+.form-duzenle {
+    background-color: #fff;
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2rem;
+    display: none;
+}
+
+    .form-duzenle h1 {
+        text-align: center;
+        padding: 10px 0px;
+    }
+
+    .form-duzenle .btn-vazgec {
+        padding: 10px 15px;
+        color: #dedddc;
+        border: 2px solid #dedddc;
+        border-radius: 5px;
+        background-color: #fff;
+        font-weight: bolder;
+        cursor: pointer;
+        transition: all linear .5s;
+    }
+
+        .form-duzenle .btn-vazgec:hover {
+            border-color: black;
+            color: black;
+        }
+
+    .form-duzenle .btn-kaydet {
+        padding: 10px 15px;
+        color: #fff;
+        border: 2px solid black;
+        border-radius: 5px;
+        background-color: black;
+        font-weight: bolder;
+        cursor: pointer;
+    }
+
+        .form-duzenle .btn-kaydet:hover {
+            opacity: 0.8;
+        }
+
+    .form-duzenle .mail-degistir {
+        padding: 10px 10px;
+        color: #fff;
+        border: 2px solid black;
+        border-radius: 5px;
+        background-color: black;
+        font-weight: bolder;
+        cursor: pointer;
+    }
+
+        .form-duzenle .mail-degistir:hover {
+            opacity: 0.8;
+        }
+
+    .form-duzenle .lbl-mail {
+        font-weight: bolder;
+        font-size: 1.8rem;
+    }
+
+    .form-duzenle li {
+        padding: 2rem;
+        border-bottom: 2px solid #dedddc;
+    }
+
+    .form-duzenle .column-3 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .form-duzenle .column-2 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .form-duzenle li .parola-box {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 0px;
+    }
+
+    .form-duzenle li label {
+        color: #5C5470;
+        font-weight: bolder;
+    }
+
+    .form-duzenle li .txt {
+        width: 500px;
+        height: 30px;
+        padding: 10px;
+        font-size: 20px;
+    }
+
+.mail-change-container:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(6px);
+    z-index: 1;
+}
+
+.mail-change-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 2
+}
+
+.mail-change {
+    background-color: #fff;
+    width: 60%;
+    z-index: 10;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+    .mail-change h2 {
+        border-bottom: 1px solid black;
+    }
+
+    .mail-change .metin {
+        text-align: center;
+        padding: 10px;
+    }
+
+        .mail-change .metin p {
+            width: 70%;
+            text-align: center;
+            margin: auto;
+            background-color: #FFF4BD;
+        }
+
+.yeni-mail {
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+
+    .yeni-mail .txtMail {
+        padding: 5px;
+        width: 80%;
+    }
+
+.rastgele-kod {
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+
+    .rastgele-kod .txtMail {
+        padding: 5px;
+        width: 80%;
+    }
+
+.buttons {
+    text-align: right;
+    padding: 20px;
+}
+
+    .buttons .btn-kod-gonder {
+        padding: 10px 10px;
+        color: #fff;
+        border: 2px solid black;
+        border-radius: 5px;
+        background-color: black;
+        font-weight: bolder;
+        cursor: pointer;
+    }
+
+        .buttons .btn-kod-gonder:hover {
+            opacity: 0.8;
+        }
+
+    .buttons .btn-degistir {
+        padding: 10px 10px;
+        color: #fff;
+        border: 2px solid black;
+        border-radius: 5px;
+        background-color: black;
+        font-weight: bolder;
+        cursor: pointer;
+        display: none;
+    }
+
+        .buttons .btn-degistir:hover {
+            opacity: 0.8;
+        }
+    
+
+    .buttons .btn-vazgec {
+        padding: 10px 15px;
+        color: #dedddc;
+        border: 2px solid #dedddc;
+        border-radius: 5px;
+        background-color: #fff;
+        font-weight: bolder;
+        cursor: pointer;
+        transition: all linear .5s;
+    }
+
+        .buttons .btn-vazgec:hover {
+            border-color: black;
+            color: black;
+        }
+
+    .buttons .btn-tamamla {
+        padding: 10px 10px;
+        color: #fff;
+        border: 2px solid black;
+        border-radius: 5px;
+        background-color: black;
+        font-weight: bolder;
+        cursor: pointer;
+        display: none;
+    }
+
+        .buttons .btn-tamamla:hover {
+            opacity: 0.8;
+        }
+
+.pnl-kod {
+    display: none;
+}

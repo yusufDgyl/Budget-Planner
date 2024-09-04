@@ -1,0 +1,123 @@
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\BUDGET_PLANNER_.nett.dll.config
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\BUDGET_PLANNER_.nett.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\BUDGET_PLANNER_.nett.pdb
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csc.exe
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csc.exe.config
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csc.rsp
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csi.exe
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csi.exe.config
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csi.rsp
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.AppContext.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Console.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.IO.Compression.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Net.Http.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.ValueTuple.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\vbc.exe
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\vbc.exe.config
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\vbc.rsp
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\VBCSCompiler.exe
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\obj\Debug\BUDGET_PLANNER_.nett.csproj.AssemblyReference.cache
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\obj\Debug\BUDGET_PLANNER_.nett.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\obj\Debug\BUDGET_PLANNER_.nett.csproj.CopyComplete
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\obj\Debug\BUDGET_PLANNER_.nett.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\obj\Debug\BUDGET_PLANNER_.nett.pdb
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\Business.dll
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\Business.pdb
+C:\Users\yusuf.doguyel\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\CKEditor.NET.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\BUDGET_PLANNER_.nett.dll.config
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\BUDGET_PLANNER_.nett.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\BUDGET_PLANNER_.nett.pdb
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csc.exe
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csc.exe.config
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csc.rsp
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csi.exe
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csi.exe.config
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\csi.rsp
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.AppContext.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Console.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Net.Http.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\vbc.exe
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\vbc.exe.config
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\vbc.rsp
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\Business.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\Business.pdb
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\obj\Debug\BUDGET_PLANNER_.nett.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\obj\Debug\BUDGET_PLANNER_.nett.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\obj\Debug\BUDGET_PLANNER_.nett.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\obj\Debug\BUDGET_PLANNER_.nett.dll
+C:\Users\Yusuf\Desktop\Yusuf's folderss\source\repos\BUDGET_PLANNER_.nett\BUDGET_PLANNER_.nett\obj\Debug\BUDGET_PLANNER_.nett.pdb

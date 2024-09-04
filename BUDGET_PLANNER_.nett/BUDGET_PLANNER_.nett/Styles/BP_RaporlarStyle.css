@@ -1,0 +1,59 @@
+﻿body {
+    background-color: #dedddc;
+}
+
+.chart-container {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+    .chart-container h2 {
+        text-align: center;
+    }
+
+.rapor-container {
+    background-color: #fff;
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 20px;
+}
+.rapor-container h1 {
+    text-align:center;
+    margin-bottom:10px;
+}
+
+    .rapor-container .rapor-hesap {
+        padding: 10px;
+        margin-bottom: 10px;
+        background-color: #D4BDAC;
+        border-radius:20px;
+    }
+
+        .rapor-container .rapor-hesap div {
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .rapor-container .rapor-hesap h2 {
+            background-color: #536493;
+            border-radius: 20px;
+            padding: 10px 20px;
+            font-weight: bolder;
+            color: #FFF1DB;
+        }
+        .rapor-container .rapor-hesap .lbl {
+            color: black;
+            font-weight: bolder;
+            font-size: 20px;
+            display: block;
+        }
+        .rapor-container .rapor-hesap .lbl-durum {
+            color: #FFF1DB;
+        }

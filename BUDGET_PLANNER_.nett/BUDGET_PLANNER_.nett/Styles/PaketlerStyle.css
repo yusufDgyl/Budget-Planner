@@ -1,0 +1,127 @@
+﻿/*BUTTONS*/
+
+.btn {
+    color: white;
+    padding: 8px 24px;
+    border: none;
+    font-size: 2rem;
+    background-color: #006989;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+/*HOME*/
+
+.home {
+    height: 90vh;
+    width: 100%;
+    background-image: url('../Images/aboutus.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.home-content {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    height:100%;
+    z-index:15;
+    color:#fff; 
+}
+.home-content h1{
+    font-size:6rem;
+}
+.home-content p {
+    font-size:2rem;
+}
+
+/*PLANS*/
+
+.plans h1 {
+    text-align: center;
+    font-size: 5rem;
+    margin-right: 70px;
+}
+.plans-container {
+    display:flex;
+    justify-content:space-around;
+    margin:30px 0px;
+}
+.plan {
+    background-color: #F3F7EC;
+    width: 30%;
+    padding: 2rem 2rem;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition-duration: .6s;
+}
+    .plan:hover {
+        box-shadow: rgba(0, 0, 0, 0.8) 0px 5px 15px;
+    }
+.plan li{
+    margin-bottom:10px;
+}
+.plan h4 {
+    margin-bottom:10px;
+}
+.plan-content {
+    width: 50%;
+    background-color: #E88D67;
+    border-radius: 10px;
+    padding: 2rem;
+}
+.plan-content h2 {
+    font-size:3rem;
+    margin-bottom:1.8rem;
+    color:#fff;
+    text-align:center;
+}
+.recommended-plan .recommended-tag {
+    color: #fff;
+    background-color: #E88D67;
+    padding: 8px;
+    border-radius: 10px
+}
+.plan-content p {
+    font-size:1.8rem;
+    margin-bottom:15px;
+}
+    .plan-content .btn {
+        display: block;
+        width: 100%;
+        margin-top: 60px;
+        background-color: #F3F7EC;
+        color: #E88D67;
+    }
+
+/*RESPONSIVE*/
+
+@media (max-width:770px)
+{
+    .plans-container {
+        flex-direction:column;
+        align-content:center;
+        flex-wrap:wrap;
+    }
+    .plan {
+        width:50%;
+        margin-bottom:10px;
+    }
+    .plans h1 {
+        margin:0px;
+        cell
+    }
+}
+
+
+/*TABLOLAR*/
+
+.tablom {
+    text-align:center;  
+    width:100%;
+}

@@ -1,0 +1,55 @@
+﻿@media (max-width:770px) {
+
+    .info {
+        display:flex;
+        flex-direction:column;
+    }
+    .row {
+        display: flex;
+        flex-direction: column !important;
+        flex: 100%;
+    }
+    .cards {
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+    }
+    .recommended {
+        position: static !important;
+    }
+    .card {
+        height: 310px !important;
+        margin-bottom: 10px !important;
+        width:70%;
+    }
+    .flex-items {
+        flex-direction: column !important;
+    }
+    .flex-items img{
+        width:70%;
+    }
+    .infos {
+        flex-direction: column !important;
+        align-items:center;
+    }
+    .info-contact {
+        height:250px !important;
+        width:50% !important;
+        margin-bottom: 10px !important;
+    }
+    .mail-contact .name , .mail-contact .mail{
+        display:block;
+        width:100% !important;
+        margin-bottom:10px !important;
+    }
+
+
+
+
+}
+@media(max-width:578px)
+{
+    html{
+        font-size:6px;
+    }
+}

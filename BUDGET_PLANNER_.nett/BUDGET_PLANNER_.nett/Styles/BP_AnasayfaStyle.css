@@ -1,0 +1,174 @@
+﻿body {
+    background-color: #dedddc;
+}
+
+table {
+    width: 100%;
+}
+
+.metin-container {
+    margin-top: 20px;
+}
+
+.metin {
+    width: 70%;
+    margin: auto;
+    background-color: #343a40;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.hosgeldin-metin {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+    color: #fff;
+    align-items: center;
+}
+
+.chart {
+    width: 80%;
+    margin: auto;
+    height: 300px;
+    padding-left: 10rem;
+}
+
+.chart-container {
+    width: 70%;
+    margin: auto;
+    border-radius: 20px;
+    background-color: #fff;
+    padding: 20px;
+}
+
+    .chart-container h2 {
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+table {
+    width: 100%;
+}
+
+.hesaplarim-box {
+    margin-bottom: 50px;
+}
+
+.hesaplarim-container {
+    width: 90%;
+    margin: auto;
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 20px;
+    padding: 20px;
+    height:700px;
+    overflow-x:hidden;
+    overflow-y:scroll;
+}
+
+    .hesaplarim-container h1 {
+        text-align: center;
+    }
+
+    .hesaplarim-container .tablo-basliklar {
+        display: flex;
+        margin-top: 30px;
+    }
+
+        .hesaplarim-container .tablo-basliklar li {
+            border-right: 1px solid black;
+            padding: 10px 50px;
+            font-size: 13px;
+            width: 20%;
+            text-align: center;
+        }
+
+    .hesaplarim-container .tablo-elemanlar {
+        display: flex;
+        border-bottom: 1px solid black;
+        text-align: center;
+        padding: 10px;
+    }
+
+        .hesaplarim-container .tablo-elemanlar li {
+            padding: 10px 80px;
+            overflow: hidden;
+            font-size: 12px;
+            padding-left: 50px;
+            width: 20%;
+            align-content: center;
+        }
+
+        .hesaplarim-container .tablo-elemanlar .btn-islem-yap {
+            padding: 5px 15px;
+            background-color: cornflowerblue;
+            color: white;
+            border-radius: 10px;
+            cursor: pointer;
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        .hesaplarim-container .tablo-elemanlar .btn-sil {
+            background-color: darkred;
+            color: #fff;
+            padding: 5px 15px;
+            border-radius: 10px;
+            cursor: pointer;
+            display: block;
+            margin-bottom: 2px;
+        }
+
+
+.emin-misin-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+    width: 100%;
+    height: 100vh;
+}
+
+    .emin-misin-container:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        backdrop-filter: blur(6px);
+        z-index: -1;
+    }
+
+.emin-misin {
+    padding: 20px;
+    background-color: #fff;
+}
+
+    .emin-misin h2 {
+        text-align: center;
+    }
+
+.emin-misin-btn-group {
+    text-align: center;
+}
+
+    .emin-misin-btn-group .btn-emin-misin {
+        padding: 8px 24px;
+        background-color: black;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+
+        .emin-misin-btn-group .btn-emin-misin:hover {
+            opacity: 0.8;
+        }

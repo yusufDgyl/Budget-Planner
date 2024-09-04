@@ -1,0 +1,123 @@
+﻿body {
+    background-color: #dedddc;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.form-container {
+    margin-top: 100px;
+}
+.bilgilerim-form {
+    background-color: #fff;
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+.form-baslik {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #dedddc;
+}
+
+.btn-duzenle {
+    padding: 8px 24px;
+    color: #dedddc;
+    border: 2px solid #dedddc;
+    border-radius: 5px;
+    background-color: #fff;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: all linear .5s;
+}
+
+    .btn-duzenle:hover {
+        border-color: black;
+        color: black;
+    }
+
+.form-icerik {
+    padding: 2rem 0rem;
+}
+
+    .form-icerik li {
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem;
+    }
+
+        .form-icerik li label {
+            color: #5C5470;
+            font-weight: bolder;
+        }
+
+.dList {
+    width: 100%;
+}
+
+.form-duzenle {
+    background-color: #fff;
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2rem;
+    display: none;
+}
+
+    .form-duzenle h1 {
+        text-align: center;
+        padding: 10px 0px;
+    }
+
+    .form-duzenle .btn-vazgec {
+        padding: 10px 15px;
+        color: #dedddc;
+        border: 2px solid #dedddc;
+        border-radius: 5px;
+        background-color: #fff;
+        font-weight: bolder;
+        cursor: pointer;
+        transition: all linear .5s;
+    }
+
+        .form-duzenle .btn-vazgec:hover {
+            border-color: black;
+            color: black;
+        }
+
+    .form-duzenle .btn-kaydet {
+        padding: 10px 15px;
+        color: #fff;
+        border: 2px solid black;
+        border-radius: 5px;
+        background-color: black;
+        font-weight: bolder;
+        cursor: pointer;
+    }
+
+        .form-duzenle .btn-kaydet:hover {
+            opacity: 0.8;
+        }
+
+    .form-duzenle li {
+        padding: 2rem;
+        border-bottom: 2px solid #dedddc;
+    }
+
+    .form-duzenle .column-2 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .form-duzenle li label {
+        color: #5C5470;
+        font-weight: bolder;
+    }
+
+    .form-duzenle li .txt {
+        width: 500px;
+        height: 30px;
+        padding: 10px;
+        font-size: 20px;
+    }
+
